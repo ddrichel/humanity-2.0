@@ -1,0 +1,39 @@
+{
+  "schema_version": "0.1",
+  "record_kind": "synthetic",
+  "profile_id": "example-person",
+  "updated_at": "2026-10-12T21:49:49Z",
+  "context": "Assistance with one current task",
+  "owner_reviewed": false,
+  "components": [
+    {
+      "axis_id": "presentation_detail",
+      "low": "Brief next action",
+      "high": "Full explanation",
+      "value": -0.7,
+      "basis": "illustrative",
+      "source": "Synthetic example; not a real person"
+    },
+    {
+      "axis_id": "follow_up_frequency",
+      "low": "Only when requested",
+      "high": "Frequent check-ins",
+      "value": null,
+      "basis": "illustrative",
+      "source": "Unknown in this synthetic example"
+    }
+  ],
+  "boundaries": [
+    "Do not infer diagnoses or hidden motives."
+  ],
+  "permission_preferences": [
+    {
+      "action": "Prepare a reversible proposal",
+      "preference": "allow"
+    },
+    {
+      "action": "Send an external message",
+      "preference": "ask"
+    }
+  ]
+}

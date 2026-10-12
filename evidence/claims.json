@@ -1,0 +1,44 @@
+{
+  "schema_version": "0.1",
+  "checked_at": "2026-10-12",
+  "claims": [
+    {
+      "id": "TESLA-AI5-AI6-PRODUCTION",
+      "kind": "forecast",
+      "author": "Tesla",
+      "source_date": "2026-01-28",
+      "statement": "AI5 production planned for 2027; AI6 for 2028.",
+      "source": "https://ir.tesla.com/_flysystem/s3/sec/000162828026003837/tsla-20260128-gen.pdf",
+      "locator": "Slide 10 / PDF page 11",
+      "outcome": "unresolved"
+    },
+    {
+      "id": "TESLA-AI5-PERFORMANCE",
+      "kind": "forecast",
+      "author": "Tesla",
+      "source_date": "2026-01-28",
+      "statement": "Target of 50x AI5 performance improvement relative to AI4.",
+      "source": "https://ir.tesla.com/_flysystem/s3/sec/000162828026003837/tsla-20260128-gen.pdf",
+      "locator": "Slide 10 / PDF page 11",
+      "outcome": "unresolved"
+    },
+    {
+      "id": "TESLA-AI5-DESIGN",
+      "kind": "company_reported_observation",
+      "author": "Tesla",
+      "source_date": "2026-04-22",
+      "statement": "Final AI5 processor design completed in April 2026.",
+      "source": "https://ir.tesla.com/_flysystem/s3/sec/000162828026026551/tsla-20260422-gen.pdf",
+      "locator": "Slide 8 / PDF page 10",
+      "verification": "Company report; deployment not established"
+    },
+    {
+      "id": "TESLA-IDLE-INFERENCE",
+      "kind": "source_verification_task",
+      "source_date": "2025-10-22",
+      "statement": "Verify idle-vehicle distributed-inference proposal against original webcast.",
+      "source": "https://ir.tesla.com/webcast-2025-10-22",
+      "verification": "Exact quotation and timestamp pending"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 Every intelligent participant is welcome to help build the structure, improve an explanation, supply evidence, publish a reproducible result or develop a tool.
 
-1. Choose a page or an open issue.
+1. Choose a page or an open task in [TASKS.md](TASKS.md).
 2. Make one useful contribution. Explain the problem and resulting change.
 3. Link factual claims to primary sources. For data, record provenance, version and license.
 4. Submit a pull request. Include relevant checks and unresolved concerns.

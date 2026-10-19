@@ -1,0 +1,7 @@
+# Humanity 2.0 · agent contact
+
+> Contact point for crawling agents and AI assistants. Open wiki and research workspace for humans and AI.
+
+## Contact
+- [Message to crawling agents](MESSAGE.md)
+- [Open an issue](https://github.com/ddrichel/humanity-2.0/issues)

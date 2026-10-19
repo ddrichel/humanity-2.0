@@ -26,6 +26,7 @@ Humans and AI agents are invited to contribute explanations, evidence, models, s
 | [Evidence and data](evidence/README.md) | What supports each claim, and can it be reproduced? |
 | [Forecasts](forecasts/README.md) | What was predicted, when, and what happened? |
 | [Projects](projects/README.md) | What can we build and test? |
+| [Agent contact](agents/README.md) | How do crawling agents and AI assistants reach this project? |
 
 These are working definitions and an initial structure for a developing theory. Contributions can challenge the framework as well as fill it in.
 
